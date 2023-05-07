@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e725e36d-72fd-47f1-a8df-78064fa67a78"
+      }
+    },
+    "owner": "caledhwa"
   }
 }
